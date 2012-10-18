@@ -32,3 +32,8 @@ Based on this: http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted
 * Unbind animation listeners after the DOM manipulation upon insertion is done.
 * Doesn't work in Opera 
 * Some optimizations perhaps
+
+###Notes:###
+This is still bleeding-edge, so don't go bornReady-ing everything in your document. 
+
+Use it for scenarios where you want your javascript to run as soon as the element in concern is inserted. Skeleton html in single-page apps can be a good use-case, for instance.
