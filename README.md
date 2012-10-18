@@ -1,8 +1,11 @@
 #bornReady#
 
 Get your DOM elements ready the moment they are inserted into the document! 
+
 Don't wait for the whole document with your 20 silly script tags to load and delay the DOMContentLoaded event to fire.
+
 Use bornReady 'cause your DOM elements are born ready to do shit!
+
 Based on this: http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted/
 
 ###Usage:###
